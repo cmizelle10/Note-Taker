@@ -28,5 +28,8 @@ This application allows the user to keep track of notes via writing, saving and 
 # Usage
 When the app loads, click "Get Started." You will then have the opportunity to view existing notes on the left hand side or add new ones via clicking the plus sign on the top right.
 
+# Link
+Checkout deployed app here: [Note Taker](https://cryptic-wave-50096.herokuapp.com/notes)
+
 # Questions
 Contact me with any questions via [email](mailto:cmizelle10@gmail.com) or [GitHub](https://github.com/cmizelle10)
